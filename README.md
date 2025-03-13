@@ -6,8 +6,8 @@ Welcome to my GitHub profile! 🚀
 
 ## 🕶️ About Me
 I'm passionate with working in an analytics role and thrive working alone and within a team.  
-- 🌟 Currently exploring **Instagram Reels** and **Fasting**.
-- 🔭 Working on a **Chess Puzzle solving AI** project.
+- 🌟 Currently exploring the **Big data** and **Analytics** stem.
+- 🔭 Working on a **Business Intelligence and Visualisation** project.
 - 🎓 Pursuing a Bachelor's Degree in IT specialising in Data Analytics at Swinburne University of Technology, Hawthorn, Australia.
 
 ## 🧑‍💻 Tech Stack
