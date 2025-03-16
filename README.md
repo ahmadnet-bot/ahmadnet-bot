@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 🚀
 I'm passionate with working in an analytics role and thrive working alone and within a team.  
 - 🌟 Currently exploring the **Big data** and **Analytics** stem.
 - 🔭 Working on a **Business Intelligence and Visualisation** project.
-- 🎓 Pursuing a Bachelor's Degree in IT specialising in Data Analytics at Swinburne University of Technology, Hawthorn, Australia.
+- 🎓 Pursuing a Bachelor's Degree in IT specialising in Data Analytics at Swinburne University of Technology, Melbourne, Australia.
 
 ## 🧑‍💻 Tech Stack
 ### **Programming Languages**  
@@ -49,7 +49,10 @@ I'm passionate with working in an analytics role and thrive working alone and wi
 
 ## 💻 Projects
 
-- [Credit Card Validation System](https://github.com/ahmadnet-bot/CreditCardValidationSystem): A Credit Card Validation System that checks the authenticity of a real-world credit/debit card.
+- [Credit Card Validation System](https://github.com/ahmadnet-bot/CreditCardValidationSystem): A **Credit Card Validation System** that checks the authenticity of a real-world credit/debit card.
+- [FIFA World Cup Statistics & Analysis](https://github.com/ahmadnet-bot/WorldCupViz): A **Power BI & Excel** project analyzing FIFA World Cup statistics, including team performances, winners, and historical trends.
+- [TV Stock & Order Management System](https://github.com/ahmadnet-bot/OrderManagementSystem): A **C-based linked list & queue system** for managing TV stock, customer orders, and real-time inventory updates.
+- [Burger Order & Revenue System](https://github.com/ahmadnet-bot/RestaurantReservationSystem): A **C-based ordering system** allowing users to order, cancel, and manage burger purchases, with an admin revenue tracking feature.
 
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/ahmadmukthar](https://www.linkedin.com/in/ahmadmukthar/)
