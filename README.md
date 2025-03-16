@@ -49,6 +49,8 @@ I'm passionate with working in an analytics role and thrive working alone and wi
 
 ## 💻 Projects
 
+- [Credit Card Validation System](https://github.com/ahmadnet-bot/CreditCardValidationSystem): A Credit Card Validation System that checks the authenticity of a real-world credit/debit card.
+
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/ahmadmukthar](https://www.linkedin.com/in/ahmadmukthar/)
 - Email: [ahmadmukthar139@gmail.com](mailto:ahmadmukthar1391@gmail.com)
