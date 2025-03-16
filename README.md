@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-🎮 Aspiring IT Analyst | 🧠 Data Enthusiast | 🎆 Exploring Big Data in an Analytics Context
+🎮 Aspiring IT Analyst | 🧠 Data Enthusiast | 🎆 Exploring Big Data in the Analytics Landscape
 
 ## 🕶️ About Me
 I'm passionate with working in an analytics role and thrive working alone and within a team.  
