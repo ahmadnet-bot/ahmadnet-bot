@@ -49,14 +49,6 @@ I'm passionate with working in an analytics role and thrive working alone and wi
 
 ## 💻 Projects
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmadnet-bot&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadnet-bot&theme=dark&hide_border=false&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnet-bot&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmadnet-bot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/ahmadmukthar](https://www.linkedin.com/in/ahmadmukthar/)
 - Email: [ahmadmukthar139@gmail.com](mailto:ahmadmukthar1391@gmail.com)
